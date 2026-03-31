@@ -4,6 +4,9 @@
       "eas": {
         "projectId": "3bc3d27e-543f-4c47-9976-50766a638ce0"
       }
+    },
+    "android": {
+      "package": "com.praveenkumar9894.rtkcablenav"
     }
   }
 }
